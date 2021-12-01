@@ -12,3 +12,4 @@ for index, value in enumerate(formatted_list):
         counter += 1
 
 print(counter)
+
